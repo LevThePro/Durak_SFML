@@ -1,0 +1,10 @@
+//
+// Created by Dave R. Smith on 2/14/23.
+//
+
+#ifndef CS3A_SPRING23_SFMLCARD_RANKS_H
+#define CS3A_SPRING23_SFMLCARD_RANKS_H
+enum DurakRanks{
+    ACE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING
+};
+#endif //CS3A_SPRING23_SFMLCARD_RANKS_H
